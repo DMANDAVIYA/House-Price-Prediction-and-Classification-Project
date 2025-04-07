@@ -53,31 +53,37 @@ The objective of this project is to:
 
 ## 📁 Project Structure
 
-ML-Project/
-├── data/                  # Contains raw dataset and preprocessed CSV files
-│   ├── house_Prediction_Data_Set.csv
-│   
-│  
-│   
-│   
-│
-├── models/                # Trained and saved ML models
-│   ├── linear_regression_model.pkl
-│   └── final_knn_model.pkl
-│
-├── notebooks/             # Jupyter Notebooks for preprocessing, training, evaluation
-│   └── PROJ.ipynb
-│
-├── docs/                  # Project documentation files (PDF or Markdown)
-│   └── ML_PROJECT.pdf
-│
-├── src/                   # Python scripts for modular code (optional)
-│   ├── preprocess.py
-│   └── train_models.py
-│
-├── README.md              # Project overview and guide
-├── requirements.txt       # Python dependencies
-└── LICENSE                # Open-source license file (e.g., MIT)
+Folder: data/
+    Contains your original and preprocessed CSV files:
+    house_Prediction_Data_Set.csv
+
+Folder: models/
+    Stores your saved machine learning models:
+    linear_regression_model.pkl
+    final_knn_model.pkl
+
+Folder: notebooks/
+    Contains your Jupyter notebook:
+    PROJ.ipynb
+
+Folder: docs/
+    Contains the PDF documentation of the project:
+    Project Documentation.pdf
+
+Folder: src/
+    Contains Python scripts for preprocessing and training:
+    preprocess.py
+    train_models.py
+
+File: README.md
+    Provides an overview and instructions for the project.
+
+File: requirements.txt
+    Lists all required Python libraries for the project.
+
+File: LICENSE
+    Contains the open-source license (e.g., MIT License).
+
 
 
 ## 💾 Saved Models
