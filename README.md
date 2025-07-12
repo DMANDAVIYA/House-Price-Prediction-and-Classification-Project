@@ -1,6 +1,7 @@
 # 🏠 House Price Prediction & Classification
 
 ## 🎯 Objective
+
 The objective of this project is to:
 - Predict house prices using **Linear Regression**
 - Classify house prices into **Low**, **Medium**, and **High** using **K-Nearest Neighbors (KNN)**
